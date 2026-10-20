@@ -12,6 +12,10 @@ Go to **[Releases](../../releases/latest)** and download `DayZ_Toolbox_Setup_<ve
 
 Every release also has a `.sha256` file: the installer's fingerprint, which the built-in updater checks before installing.
 
+## Roadmap
+
+What's new, what's being worked on and what's planned: **[ROADMAP.md](ROADMAP.md)**. Ideas and problems: **Help → Send feedback or report a problem** in the toolbox.
+
 ## Help
 
 Open the toolbox and press **F1**, or use **Help → User guide**.
