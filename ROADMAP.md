@@ -11,6 +11,13 @@ needed.
 
 ## Recently added
 
+### 1.5.1
+- **Weather: choose how often it changes**, from every 15 minutes to every 12 hours, or any number of minutes, so
+  the weather can come in long blocks. (A player's idea, sent with **Send feedback**.)
+- **The endgame gauntlet has a default spot on Badlands**, with every height already checked in game.
+- **Fixed:** switching between light and dark took seconds and could freeze the window; after opening the File
+  Editor, F1 and keyboard shortcuts could stop working.
+
 ### 1.5.0
 - **The endgame gauntlet:** a ready-made challenge area to place on your map. Five walled arenas and a dark final
   room, joined by gates and shipping-container hallways, with a key, locked loot vaults, rising numbers of infected,
@@ -42,8 +49,7 @@ needed.
 
 - **The endgame gauntlet:** testing it in game, room by room, on a live server. Wolves and bears in their own rooms
   are the newest part.
-- **Default spots for the gauntlet** on more maps (Badlands has one: a new gauntlet starts where it was built and
-  checked in game).
+- **Default spots for the gauntlet** on more maps (Badlands has one since 1.5.1).
 
 ---
 
