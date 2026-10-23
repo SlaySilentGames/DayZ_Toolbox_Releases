@@ -11,6 +11,14 @@ needed.
 
 ## Recently added
 
+### 1.5.2
+- **A safety net before restarting outside your restart plan:** with players on, a push or restart says how many
+  and when the next planned restart is, and can wait for it (the push then starts a minute before, after players
+  have had their warnings).
+- **The endgame gauntlet:** choose how many jump-ups each room has; its wolves and bears now appear.
+- **Fixed:** item lists too narrow to read; custom vehicles not coming back while players were nearby; the
+  military outpost's barriers could be climbed.
+
 ### 1.5.1
 - **Weather: choose how often it changes**, from every 15 minutes to every 12 hours, or any number of minutes, so
   the weather can come in long blocks. (A player's idea, sent with **Send feedback**.)
